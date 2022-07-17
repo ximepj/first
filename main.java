@@ -14,7 +14,8 @@ public class main {
         principal.Menu();
         Menu();
         
-// no se como hacer esto la vdd
+  git.pull
+// no se como hacer esto la vdd 
         clientes clients = new clientes();
         clients.cliens();
         clients.printClientes();
